@@ -11,7 +11,6 @@ app.use(cors())
 app.use(morgan('tiny'))
 
 app.use('/associations', associationsRoutes)
-
 app.listen(port, () => {
   console.log(`Server running on ${port}`)
 })

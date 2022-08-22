@@ -1,5 +1,4 @@
 const associations = require('../associations')
-const { get } = require('../routes/associations')
 
 const verifyassociation = (req, res, next) => {
 

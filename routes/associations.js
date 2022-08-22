@@ -11,4 +11,12 @@ app.get('/:slug',verifyassociation, (req,res)=>{
     res.json(req.association)
 })
 
+app.post('/:slug/messages',verifyassociation, (req,res)=>{
+    const {slug} = req.params
+    const messages = req.body
+    messages.slug=slug
+    res.json(messages)
+    
+})
+
 module.exports = app
