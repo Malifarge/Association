@@ -4,7 +4,7 @@ const associations = [
         slug: "les-restos-du-coeur",
         Slogan: "ON COMPTE SUR VOUS",
         description: " Les restos du coeur ont pour but « d’aider et d’apporter une assistance bénévole aux personnes démunies, notamment dans le domaine alimentaire par l’accès à des repas gratuits, et par la participation à leur insertion sociale et économique, ainsi qu’à toute action contre la pauvreté sous toutes ses formes ».",
-        image: "https://dons.restosducoeur.org/cdn.iraiser.eu/yj9k53ZvSG82oqJBwPTI3w==/default/origin/logorestosducoeurhd5.png"
+        image: "https://d1v8uc2aqxfbnw.cloudfront.net/production/associations/pictures/26c3320a58663046ddebcdc215a01e1b9ad55711.png?1571328546"
     },
     {
         name: "UNICEF",
